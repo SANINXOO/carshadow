@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+    font-size: medium;
+    color: black;
+}
+.image{
+    text-align: center;
+    margin: 20px;
+}
+.image img{
+    width: 50%;
+    box-shadow: 1px -1px 5px 9px rgba(0,0,0,0.75);
+}
+.border{
+    border: 2px solid black;
+}
+.inner{
+    border: 2px solid gray;
+}
